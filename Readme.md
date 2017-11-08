@@ -1,5 +1,5 @@
 # Git courso e bora la
-
+tese do uso de novos comandos.......
 este é o testte para ver como funcononnaaaaab
 teste w.
 tste
@@ -12,3 +12,6 @@ teste inserindo a partir do notepad ++
 
 
 teste de alteração de arquivo para posterior upload no Github
+
+
+Outros cursos em http://www.ig.com.br
